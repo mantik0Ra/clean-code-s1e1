@@ -18,11 +18,8 @@
 }
 
 @media (max-width:768px) {
-
-.sect-more-info { 
-    text-align: center;
-  }
-  
+.sect-more-info { text-align: center;
+}
 }
 .main-page-elem {
   display: block;
