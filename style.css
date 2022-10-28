@@ -116,7 +116,7 @@ input,button{
   width: 226px;
 }
 .list-item >    .change-name-input[type="text"] {
-  width: 226px
+  width: 226px;
 }
 button.delete img {
   height: 2em;
@@ -129,18 +129,18 @@ button.delete img:hover {
 
 /* Completed */
 #completed-tasks .label-task {
-  text-decoration: line-through
+  text-decoration: line-through;
   color: #888;
 }
 
 /* Edit Task */
 .list-item .change-name-input[type="text"] {
-  display: none
+  display: none;
 }
 
 .list-item.edit-mode .change-name-input[type="text"] {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 ul .list-item.edit-mode .label-task {
