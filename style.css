@@ -104,7 +104,7 @@ button{
   justify-content: space-between;
   align-items: center;
 }
-.main__ul_list-item > * {
+.main__ul_list-item > .app {
   vertical-align: middle;
 }
 
@@ -120,12 +120,12 @@ button{
 .main__ul_list-item > .main__input[type="text"] {
   width: 226px;
 }
-.delete img {
+.delete .delete__img {
   height: 2em;
   transform: rotateZ(45deg);
   transition: transform 200ms ease-in;
 }
-.delete img:hover {
+.delete .delete__img:hover {
   transform: rotateZ(0);
 }
 
