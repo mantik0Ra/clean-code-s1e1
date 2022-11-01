@@ -148,6 +148,6 @@ button{
   width: 224px;
 }
 
-ul .ul__list-item.edit-mode .list-item__label {
+.ul__list-item.edit-mode .list-item__label {
   display: none;
 }
